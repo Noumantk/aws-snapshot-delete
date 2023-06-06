@@ -18,7 +18,7 @@ Follow the steps to install all of the requirements.
 * --profile , -p : AWS Profile to use, the default is the 'default' profile
 * --age , -a : The age in days you want to keep i.e: `--age 7` will delete snapshots older than 7 days old
 * --delete , -d : Specify to delete snapshots, if this option is not supplied the snapshots will not be deleted
-* --verbose , -v : Option to give verbose output
+* --verbose , -v : Option to give verbose output jkhkjkjkjkhj
 
 ## Requirements
 * Python 3
